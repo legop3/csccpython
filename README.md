@@ -1,1 +1,1 @@
-# archive of my CSCC python unit projects.
+# archive of my CSCC python unit projects in Intro To Programming.
