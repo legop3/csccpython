@@ -1,0 +1,3 @@
+this is my new file
+each write creates one line
+this is very handy
